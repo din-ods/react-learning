@@ -9,6 +9,11 @@ function App() {
 
   return (
     <>
+    <div className="bg-green-100 flex justify-center items-center text-3xl font-bold">
+
+    dinesh singh rathore
+    </div>
+
     </>
   )
 }
